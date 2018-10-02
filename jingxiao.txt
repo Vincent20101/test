@@ -3,3 +3,16 @@ sdfsfddsfsdfs
 
 sdfsdfsdfsdsdfdsfsdfdsfsdfsdfsdfsdf
 12121212
+<<<<<<< HEAD
+=======
+
+dfsfsfsfdsf
+
+
+
+
+
+
+
+222222222222222222
+>>>>>>> 7f3adbd... wwww
